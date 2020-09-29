@@ -1,0 +1,1 @@
+Dans l'exo 7a on demande à l'utilisateur le contenu à saisir puis on l'affiche. Dans la 7b on guide encore mieux l'utilisateur en lui montrant qu'il doit saisir du contenus et dans la 7c on n'indique rien à l'utilisateur 
